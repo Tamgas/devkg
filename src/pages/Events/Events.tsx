@@ -8,7 +8,7 @@ function Events() {
       <div id="add-viv">
         <div className="container">
           <div className="btn-vk">
-            <button>Добавить вакансию</button>
+            <button>Удалить вакансию</button>
           </div>
 
           <div className="add-viv">
