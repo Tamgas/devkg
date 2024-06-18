@@ -52,7 +52,7 @@
   gap: 2.5pc
 }
 .video-bg {
-  background-color: aqua;
+  background: linear-gradient(147.89deg, rgb(2, 59, 78) -31.07%, rgb(111, 134, 214) 128.49%);
   width: 36pc;
   margin-top: 3pc;
 }

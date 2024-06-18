@@ -17,7 +17,7 @@
   padding: 30px;
   width: 95%;
   height: 400px;
-  background: linear-gradient(147.89deg, rgb(72, 198, 239) -31.07%, rgb(111, 134, 214) 128.49%);
+  background: linear-gradient(147.89deg, rgb(2, 59, 78) -31.07%, rgb(111, 134, 214) 128.49%);
   
 }
 .mainBlock{
@@ -48,3 +48,4 @@
     align-items: center;
     gap: 20px;
 }
+
