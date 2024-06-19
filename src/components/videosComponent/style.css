@@ -1,0 +1,102 @@
+.VodeoComponent__content {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.btn {
+  user-select: none;
+  font-weight: 700;
+  font-size: 14px;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 0.03em;
+  height: 38px;
+  line-height: 38px;
+  padding: 0 25px;
+  min-width: 145px;
+  text-decoration: none;
+  transition: all 0.2s;
+  border: none;
+  background: #6fcf97;
+  color: #fff;
+}
+.btn:hover {
+  background: #bababa6f;
+}
+.VidioAll-title {
+  color: #a7b0c2;
+  font-size: 24px;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+}
+.VidioAll__content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 300px;
+  gap: 30px;
+}
+.VidioAll__vidio {
+  background:url("https://i.ytimg.com/vi_webp/C2ICic8y5D8/maxresdefault.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  color: #000000;
+  font-family: "YouTube Noto",Roboto,Arial,Helvetica,sans-serif;
+  color: #eee;
+  text-align: left;
+  direction: ltr;
+  font-size: 11px;
+  line-height: 1.3;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  
+}
+.VidioAll__vidio h1 {
+  margin-left: 30px;
+}
+.VidioAll__texts {
+  display: flex;
+  gap: 30px;
+}
+.VidioAll-text {
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  font-weight: 300;
+  margin-bottom: 2px;
+  margin-left: 30px;
+}
+.VidioAll-text h1 {
+  font-family: proxima-nova, sans-serif;
+  line-height: normal;
+  font-size: 18px;
+  box-sizing: border-box;
+  margin-left: -2px;
+  padding-bottom: 20px;
+}
+.foter_btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.foter-btn{
+  user-select: none;
+  font-weight: 700;
+  font-size: 14px;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 0.03em;
+  height: 38px;
+  line-height: 38px;
+  padding: 0 25px;
+  min-width: 145px;
+  transition: all 0.2s;
+  border: none;
+  background: #6fcf97;
+  color: #fff;
+}
+.foter-btn:hover {
+  background: #bababa6f;
+}

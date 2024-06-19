@@ -1,12 +1,14 @@
 import Footer from "../../components/footer/footer";
 import Header from "../../components/header/header";
+import VodeoComponent from "../../components/videosComponent/vodeoComponent";
 
 function Video() {
     return (
-        <div>
+        <>
             <Header />
+            <VodeoComponent />
             <Footer />
-        </div>
+        </>
     );
 }
 
